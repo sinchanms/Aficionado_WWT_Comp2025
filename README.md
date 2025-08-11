@@ -1,5 +1,8 @@
 # Aficionado_WWT_Comp2025
 
+Link to Google colab:
+https://colab.research.google.com/drive/1NEGp_6FeQrZe_QIeORTi1EafMfYXl6TE?usp=sharing
+
 Requirements:
 pandas
 numpy
@@ -54,5 +57,4 @@ The core of the prediction is an XGBRanker model, a gradient boosting algorithm 
 
     GridSearchCV is used to systematically tune the model's hyperparameters, optimizing for a custom Recall@3 metric. This ensures the model is fine-tuned to place the correct item within the top 3 recommendations.
 
-Link to Google colab:
-https://colab.research.google.com/drive/1NEGp_6FeQrZe_QIeORTi1EafMfYXl6TE?usp=sharing
+
