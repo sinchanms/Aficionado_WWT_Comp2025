@@ -1,6 +1,6 @@
 # Aficionado_WWT_Comp2025
 
-# requirements
+Requirements
 pandas
 numpy
 gensim
